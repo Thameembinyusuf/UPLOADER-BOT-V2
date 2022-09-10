@@ -17,7 +17,7 @@
   ],
   "success_url": "http://t.me/UploadLinkToFileBot",
   "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V2",
+  "repository": "https://github.com/Thameembinyusuf/UPLOADER-BOT-V2",
 
   "env": {
     "WEBHOOK": {
